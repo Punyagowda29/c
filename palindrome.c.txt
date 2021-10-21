@@ -14,7 +14,7 @@ int main()
     }
     if(rev==a1)
     {
-         printf("%d is pallindrome",a1);
+         printf("%d is a pallindrome",a1);
     }
          else
          {
